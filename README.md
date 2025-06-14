@@ -1,3 +1,19 @@
+# 🌤️ Nuxt.js Weather App
+
+A simple weather application built using **Nuxt.js** that fetches real-time weather data using a API and displays the current temperature based on the user's input location.
+
+## 🚀 Features
+
+- Real-time weather data via API
+- Displays temperature based on location
+- Clean and responsive UI
+- Built with Nuxt.js for a fast and modular frontend
+
+## 🛠️ Tech Stack
+
+- **Nuxt.js**
+- **Tailwind CSS** 
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
