@@ -73,7 +73,7 @@ const goBack = () => {
         <div class="text-center sm:text-left">
           <h1 class="text-4xl md:text-6xl lg:text-8xl text-white font-semibold">{{ city.name }}</h1>
           <p class="font-normal text-xl mt-3 text-white">{{ today }}</p>
-          <img :src="`http://openweathermap.org/img/wn/${city.weather[0].icon}@4x.png`"
+          <img :src="`https://openweathermap.org/img/wn/${city.weather[0].icon}@4x.png`"
             class="w-24 h-24 mx-auto sm:mx-0 sm:w-32 sm:h-32" alt="Weather Icon" />
         </div>
 
